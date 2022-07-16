@@ -32939,7 +32939,7 @@ A.EP.prototype={}
 A.L5.prototype={
 ga7(a){return a.name}}
 A.Bj.prototype={
-M(a,b){return new A.rY(new A.Av(null),"Flutter Demo",A.a8E(null,B.pQ),null)}}
+M(a,b){return new A.rY(new A.Av(null),"Black&Purple",A.a8E(null,B.pQ),null)}}
 A.At.prototype={
 M(a,b){var s=null
 return A.ua(A.a([new A.qF(s),A.a71(A.LV(new A.qp("check out our products",s),s,s))],t.p),B.c3,B.aT)}}
